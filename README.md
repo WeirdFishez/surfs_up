@@ -18,7 +18,6 @@ For a simplified breakdown, the CX asked for summaries specifically aimed at Jun
 ![image](https://user-images.githubusercontent.com/107438816/185756387-b3c30548-dc0c-4b55-a74a-ce2f12d1dd0e.png)
 
 # Summary:
-- This analysis on temperature in Oahu shows that although Decembers temp has risk of hitting low temperature of 56*, the standard deviation of 3.7 combined with mean of 71* shows that these 56* days aren't very common. It appears that Oahu would be a good location for a Surf & Ice-cream shop.![image](https://user-images.githubusercontent.com/107438816/185757429-a4352294-82ed-413c-b0fd-8ccbaecad7df.png)
-
+- This analysis on temperature in Oahu shows that although Decembers temp has risk of hitting low temperature of 56*, the standard deviation of 3.7 combined with mean of 71* shows that these 56* days aren't very common. It appears that Oahu would be a good location for a Surf & Ice-cream shop.
 
 
