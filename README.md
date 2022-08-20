@@ -1,7 +1,5 @@
 # Surfs up!
 
-## Analysis (14 points)
-
 # Overview:
 For this analysis, our team was approached by a customer interested in opening up a surf & ice-cream ship in Oahu.
 The customer was specifically interested in the statistical breakdown of temperature in the area to help make a more informed decision on the potential market.
